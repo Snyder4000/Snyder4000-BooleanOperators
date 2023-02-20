@@ -13,6 +13,7 @@ public class Lab {
      * @param b a true/false value.
      * @return if b is true, return true. if b is false, return false.
      */
+    //New comment to fix commit issue
     public boolean returnBoolean(boolean b){
         return b;
     }
